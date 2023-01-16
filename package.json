@@ -1,0 +1,26 @@
+{
+  "name": "nlw1back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliveiramiro2/nlw1back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliveiramiro2/nlw1back/issues"
+  },
+  "homepage": "https://github.com/oliveiramiro2/nlw1back#readme",
+  "dependencies": {
+    "fastify": "^4.11.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
